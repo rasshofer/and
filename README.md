@@ -59,6 +59,8 @@ Default: `false` (= `'John, Frank and Jimmy'`)
 
 ## Changelog
 
+* 0.0.2
+  * Fix README
 * 0.0.1
   * Initial version
 
