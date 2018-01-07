@@ -1,4 +1,4 @@
-# Anno
+# And
 
 > Join arrays with commas and »and« before the last item
 
@@ -37,7 +37,7 @@ console.log(and(['John', 'Frank', 'Jimmy'], 'and', true)); // = 'John, Frank, an
 
 ### `data`
 
-Input data
+Input data.
 
 Example: `['John', 'Frank', 'Jimmy']`
 
