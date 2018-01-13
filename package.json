@@ -1,6 +1,6 @@
 {
   "name": "and",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Join arrays with commas and »and« before the last item",
   "author": {
     "name": "Thomas Rasshofer",
